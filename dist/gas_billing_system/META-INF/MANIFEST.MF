@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.10.14
+Created-By: 21.0.1+12-LTS-29 (Oracle Corporation)
+Class-Path: lib/mysql-connector-java-8.0.28.jar lib/rs2xml.jar
+X-COMMENT: Main-Class will be added automatically by build
+Main-Class: gas.billing.system.Splash
+
